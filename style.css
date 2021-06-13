@@ -140,30 +140,3 @@ body.offcanvas-active{
 	}
 
 }	
-.about-section {
-	overflow: hidden;
-	background-color: #000000;
-}
-
-.about-section img {
-	position: absolute;
-  margin-top: 2px;
-}
-
-.about-me {}
-
-.about-me h2 {
-	margin-left: 40px;
-  margin-right: 40px;
-  margin-top: 5px;
-  color:#ffffff
-}
-
-.about-me p {
-	padding-left: 40px;
-  padding-top: 25px;
-  padding-right: 40px;
-	font-size: 15px;
-  text-align:justify;
-  color:#ffffff
-}
